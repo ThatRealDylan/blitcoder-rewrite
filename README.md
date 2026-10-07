@@ -123,8 +123,7 @@ A: Yes. But i will take my time so don't expect immediate Q/A Updates.
 ---
 
 ## Notes
-none currently
-
+development started, but not very much.
 
 ---
 
