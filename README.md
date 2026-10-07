@@ -123,7 +123,7 @@ A: Yes. But i will take my time so don't expect immediate Q/A Updates.
 ---
 
 ## Notes
-development started, but not very much.
+development started, but not very much. (may take longer because of school)
 
 ---
 
