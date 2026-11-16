@@ -66,6 +66,8 @@ Q: Mobile support?
 
 A: While AI Vibecoding tools like Cursor have Mobile support, BR Is meant for PC only. Besides, i'm not willing to pay Apple 100$ just to publish an app that would probably flop. Besides, i don't even have a MacBook!
 
+> Update: I have a MacBook Neo now, but why the hell i'd use Xcode for a app that will possibly flop? I'm not learning Swift JUST for this.
+
 ---
 
 Q: We're getting GTA6 before BR2/BRW
@@ -107,6 +109,8 @@ A: There could be a chance where the Old BC **"just-abandoned-it"** happens agai
 Q: BRW Supported Devices?
 
 A: Only Windows and Linux for now. When i get a MacBook, i'll add macOS Support.
+
+> Update: Since i have Mac Now, I'll add mac support when i make BRW
 
 ---
 
